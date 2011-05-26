@@ -1,0 +1,73 @@
+Premise:
+
+A great blight has entered the heavens. The sages, fighting a losing battle
+against evil, use their powers to bring forth the heroes spread througout time
+into their domain, and seek their aid in defeating the source of the scurge.
+
+Heroes from all throughout the history of Hyrule are called upon, and find
+themselves pulled through time and space into the heavenly realm of the sages,
+only to find out that a great battle is taking place, and that the safety of
+all time and space rests with the heroes.
+
+Summoning the heroes uses most of the sages' power, and unable to aid directly
+in the coming battles, the heroes are forced to fight through the hoardes of
+monsters plaguing the realm, and free the heavens of the blight once and for
+all, to return safely back to their time and defeat the evil forces already
+facing them there.
+
+Each of the temples to the sages are under an imminent threat of distruction,
+leading to the loss of the source of each sage's divine power. As the heroes
+fight their way through the hoardes, a combination of evil power at the origin
+of the heroes, and the damage to the temples, the power of the sages will often
+wayne, and one or more of the heroes will be flung back into their own time, in
+which they must fight to survive and continue to rid their own world of evil
+before being brought back to the sage realm to continue fighting the blight.
+
+
+
+
+
+
+
+Classes in the game will be seperated into different types of link incarnations,
+all of whom are derived directly or indirectly from previous LoZ titles.
+
+Heroes:
+
+[OOT]
+Hero of Time - Archetypes: Warrior, Spellwarrior, Bard
+	Ocarina of Time
+	Able to alter the passage of time
+	Able to summon chronological magic
+
+[MC/FSA]
+Hero of Light - Archetypes: Archer, Paladin
+	Light Arrows
+	Multi-Link Split
+	Able to purify tainted objects/areas?
+	Able to summon light magic
+
+[OOS/OOA]
+Hero of Essence - Archetypes: Healer, Paladin
+	Able to give life
+	Able to alter weather
+	Able to summon natural magic
+
+[WW]
+Hero of Winds - Archetypes: Mage, Archer
+	Gust arrows
+	Able to impede the abilities of enemies
+	Able to summon wind magic
+
+[TP]
+Hero of Twilight - Archetypes: Rogue, Archer
+	Twilight arrows
+	Able to impede the abilities of enemies
+	Able to hide in shadows
+	Able to summon twilight magic
+
+[ST]
+Hero of Spirit - Archetypes: Paladin, Healer
+	Mechanical tech?
+	Able to return life
+	Able to summon spirit magic

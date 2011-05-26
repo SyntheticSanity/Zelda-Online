@@ -1,0 +1,4 @@
+Content\gfx\GameFont.xnb
+Content\gfx\tiles.xnb
+Content\gfx\ui.xnb
+Content\gfx\white.xnb

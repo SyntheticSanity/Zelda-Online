@@ -1,0 +1,10 @@
+O:\Dev\Zelda Online\MapEditor\bin\Debug\MapEditor.exe.config
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Dev\Zelda Online\MapEditor\bin\Debug\MapEditor.exe
+O:\Dev\Zelda Online\MapEditor\bin\Debug\MapEditor.pdb
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\MapEditor.exe
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\MapEditor.pdb
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\MapEditor.src.Editor.resources
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\ResGen.read.1.tlog
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\ResGen.write.1.tlog
+O:\Dev\Zelda Online\MapEditor\obj\x86\Debug\MapEditor.Properties.Resources.resources

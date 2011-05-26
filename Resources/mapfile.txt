@@ -1,0 +1,26 @@
+OFFSET	LENGTH	DESCRIPTION
+0x0000	0x0004	File Descriptor, ASCII bytes "ZOM" followed by null. 0x5A4F4D00
+0x0004	0x0004	File Version Number, 1.0.0.0 == 0x01000000 (M/m/R/r per byte)
+0x0008	0x0004	H.position relative to the center of the world. Signed.
+0x000C	0x0004	V.position relative to the center of the world. Signed.
+0x0010	0x0002	H.size in tiles.
+0x0012	0x0002	V.size in tiles.
+0x0014	0x0004	O1, Offset of the map data.
+0x0018  0x0004	O2, Offset of the entities data.
+0x001C	0x????	Meta data.
+[...]
+0xO1+0	0x0001	Map tile 0 tileset index.
+0xO1+1	0x0001	Map tile 0 tile index.
+0xO1+2	0x0001	Map tile 0 type data. (Crossable, solid, painful, etc.)
+0xO1+3	0x0001	Map tile 0 effect data. (Semitransparent, shadow, etc.)
+0xO1+4	0x0001	Map tile 1 tileset index.
+0xO1+5	0x0001	Map tile 1 tile index.
+[...]
+0xO2+0	0x0001	Map entity 0 entity type.
+0xO2+1	0x0001	Map entity 0 entity location X.
+0xO2+2	0x0001	Map entity 0 entity location Y.
+0xO2+3	0x0001	Map entity 0 entity location Z.
+0xO2+4	0x000C	Map entity 0 data.
+0xO2+10	0x0001	Map entity 1 entity type.
+0xO2+11	0x0001	Map entity 1 entity location X.
+[...]

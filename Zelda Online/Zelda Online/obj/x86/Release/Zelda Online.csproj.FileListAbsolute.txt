@@ -1,0 +1,13 @@
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\sfx\text_blip.ogg
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Content\gfx\GameFont.xnb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Content\gfx\tiles.xnb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Content\gfx\ui.xnb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Content\gfx\white.xnb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Zelda Online.exe
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Zelda Online.pdb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\irrKlang.NET4.dll
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\obj\x86\Release\Zelda Online.exe
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\obj\x86\Release\Zelda Online.pdb
+O:\Dev\Zelda Online\Zelda Online\Zelda Online\bin\x86\Release\Zelda Online.exe.config
